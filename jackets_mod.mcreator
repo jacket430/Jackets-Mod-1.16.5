@@ -1,0 +1,41 @@
+{
+  "mod_elements": [
+    {
+      "name": "TestItem",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_item"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.jackets_mod.test_item": "Test Item"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "jackets_mod",
+    "modName": "Jacket\u0027s Mod",
+    "version": "1.0.0",
+    "author": "avemi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.avemitchell.jacketsmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
